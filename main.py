@@ -26,4 +26,7 @@ cv.imshow("plat nomor kendaraan", image)
 
 cv.waitKey(0)
 
+# ini punya branch main. jangan ganggu!!!
+# Line ini untuk di branch dev
+# 1+1 = 2
 # ini branch feature B?
