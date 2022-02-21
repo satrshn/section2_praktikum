@@ -27,4 +27,3 @@ cv.imshow("plat nomor kendaraan", image)
 cv.waitKey(0)
 
 # ini punya branch main. jangan ganggu!!!
-# ini line untuk ditambahkan ke branch development
