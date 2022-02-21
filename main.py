@@ -25,3 +25,5 @@ cv.imwrite("hasildeteksi.jpg", image)
 cv.imshow("plat nomor kendaraan", image)
 
 cv.waitKey(0)
+
+# ini branch feature B?
